@@ -8,9 +8,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:stick"
-            }
+            "minecraft:stick"
         ],
         "priority": 2,
         "shape": [
@@ -244,9 +242,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:chiseled_red_sandstone"
-            }
+            "minecraft:chiseled_red_sandstone"
         ],
         "priority": 50,
         "shape": [
@@ -269,9 +265,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:chiseled_sandstone"
-            }
+            "minecraft:chiseled_sandstone"
         ],
         "priority": 50,
         "shape": [
@@ -294,9 +288,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:chiseled_stone_bricks"
-            }
+            "minecraft:chiseled_stone_bricks"
         ],
         "priority": 50,
         "shape": [
@@ -432,6 +424,23 @@
             }
         },
         "output": [
+            "minecraft:acacia_boat"
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "AAA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:acacia_planks"
+            }
+        },
+        "output": [
             {
                 "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
                 "count": 4,
@@ -509,25 +518,6 @@
         "input": {
             "A": {
                 "meta": 32767,
-                "name": "minecraft:acacia_planks"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:acacia_boat"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A A",
-            "AAA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
                 "name": "minecraft:acacia_wood"
             }
         },
@@ -561,9 +551,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:spyglass"
-            }
+            "minecraft:spyglass"
         ],
         "priority": 1,
         "shape": [
@@ -648,9 +636,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:amethyst_block"
-            }
+            "minecraft:amethyst_block"
         ],
         "priority": 1,
         "shape": [
@@ -754,9 +740,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:wolf_armor"
-            }
+            "minecraft:wolf_armor"
         ],
         "priority": 0,
         "shape": [
@@ -1137,9 +1121,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:bamboo_mosaic"
-            }
+            "minecraft:bamboo_mosaic"
         ],
         "priority": 0,
         "shape": [
@@ -1302,6 +1284,23 @@
             }
         },
         "output": [
+            "minecraft:birch_boat"
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "AAA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:birch_planks"
+            }
+        },
+        "output": [
             {
                 "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
                 "count": 4,
@@ -1372,25 +1371,6 @@
                 "meta": 32767,
                 "name": "minecraft:birch_planks"
             }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:birch_planks"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:birch_boat"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A A",
-            "AAA"
         ]
     },
     {
@@ -1513,9 +1493,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:stone_axe"
-            }
+            "minecraft:stone_axe"
         ],
         "priority": 2,
         "shape": [
@@ -1537,9 +1515,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:stone_hoe"
-            }
+            "minecraft:stone_hoe"
         ],
         "priority": 2,
         "shape": [
@@ -1561,9 +1537,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:stone_pickaxe"
-            }
+            "minecraft:stone_pickaxe"
         ],
         "priority": 2,
         "shape": [
@@ -1585,9 +1559,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:stone_shovel"
-            }
+            "minecraft:stone_shovel"
         ],
         "priority": 2,
         "shape": [
@@ -1609,9 +1581,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:stone_sword"
-            }
+            "minecraft:stone_sword"
         ],
         "priority": 2,
         "shape": [
@@ -1767,9 +1737,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:brewing_stand"
-            }
+            "minecraft:brewing_stand"
         ],
         "priority": 2,
         "shape": [
@@ -1790,9 +1758,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:brewing_stand"
-            }
+            "minecraft:brewing_stand"
         ],
         "priority": 2,
         "shape": [
@@ -1843,9 +1809,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:brewing_stand"
-            }
+            "minecraft:brewing_stand"
         ],
         "priority": -1,
         "shape": [
@@ -1959,9 +1923,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:enchanting_table"
-            }
+            "minecraft:enchanting_table"
         ],
         "priority": 0,
         "shape": [
@@ -1973,6 +1935,52 @@
             {
                 "meta": 32767,
                 "name": "minecraft:obsidian"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:brick"
+            }
+        },
+        "output": [
+            "minecraft:brick_block"
+        ],
+        "priority": 0,
+        "shape": [
+            "AA",
+            "AA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:brick"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:brick"
+            }
+        },
+        "output": [
+            "minecraft:flower_pot"
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            " A "
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:brick"
             }
         ]
     },
@@ -2000,56 +2008,6 @@
             {
                 "tag": "minecraft:decorated_pot_sherds"
             },
-            {
-                "meta": 32767,
-                "name": "minecraft:brick"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:brick"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:brick_block"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA",
-            "AA"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:brick"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:brick"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:flower_pot"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A A",
-            " A "
-        ],
-        "unlockingIngredients": [
             {
                 "meta": 32767,
                 "name": "minecraft:brick"
@@ -2743,6 +2701,23 @@
             }
         },
         "output": [
+            "minecraft:cherry_boat"
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "AAA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:cherry_planks"
+            }
+        },
+        "output": [
             {
                 "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
                 "count": 4,
@@ -2897,25 +2872,6 @@
         "input": {
             "A": {
                 "meta": 32767,
-                "name": "minecraft:cherry_planks"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:cherry_boat"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A A",
-            "AAA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
                 "name": "minecraft:cherry_wood"
             }
         },
@@ -3005,9 +2961,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:lodestone"
-            }
+            "minecraft:lodestone"
         ],
         "priority": 0,
         "shape": [
@@ -3031,9 +2985,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:clay"
-            }
+            "minecraft:clay"
         ],
         "priority": 0,
         "shape": [
@@ -3085,9 +3037,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:stone_axe"
-            }
+            "minecraft:stone_axe"
         ],
         "priority": 2,
         "shape": [
@@ -3109,9 +3059,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:stone_hoe"
-            }
+            "minecraft:stone_hoe"
         ],
         "priority": 2,
         "shape": [
@@ -3133,9 +3081,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:stone_pickaxe"
-            }
+            "minecraft:stone_pickaxe"
         ],
         "priority": 2,
         "shape": [
@@ -3157,9 +3103,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:stone_shovel"
-            }
+            "minecraft:stone_shovel"
         ],
         "priority": 2,
         "shape": [
@@ -3181,9 +3125,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:stone_sword"
-            }
+            "minecraft:stone_sword"
         ],
         "priority": 2,
         "shape": [
@@ -3335,9 +3277,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:chiseled_deepslate"
-            }
+            "minecraft:chiseled_deepslate"
         ],
         "priority": 1,
         "shape": [
@@ -3660,6 +3600,30 @@
             }
         },
         "output": [
+            "minecraft:copper_block"
+        ],
+        "priority": 1,
+        "shape": [
+            "AAA",
+            "AAA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_ingot"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:copper_ingot"
+            }
+        },
+        "output": [
             {
                 "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAEIAG9wZW5fYml0AAEPAHVwc2lkZV9kb3duX2JpdAAA",
                 "count": 2,
@@ -3737,32 +3701,6 @@
         "input": {
             "A": {
                 "meta": 32767,
-                "name": "minecraft:copper_ingot"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:copper_block"
-            }
-        ],
-        "priority": 1,
-        "shape": [
-            "AAA",
-            "AAA",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:copper_ingot"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
                 "name": "minecraft:crimson_hyphae"
             }
         },
@@ -3796,9 +3734,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:bookshelf"
-            }
+            "minecraft:bookshelf"
         ],
         "priority": 2,
         "shape": [
@@ -3853,9 +3789,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:jukebox"
-            }
+            "minecraft:jukebox"
         ],
         "priority": 2,
         "shape": [
@@ -3902,9 +3836,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:shield"
-            }
+            "minecraft:shield"
         ],
         "priority": 2,
         "shape": [
@@ -3926,15 +3858,123 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:noteblock"
-            }
+            "minecraft:noteblock"
         ],
         "priority": 2,
         "shape": [
             "AAA",
             "ABA",
             "AAA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:crimson_planks"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            "minecraft:wooden_axe"
+        ],
+        "priority": 2,
+        "shape": [
+            "AA",
+            "AB",
+            " B"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:crimson_planks"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            "minecraft:wooden_hoe"
+        ],
+        "priority": 2,
+        "shape": [
+            "AA ",
+            " B ",
+            " B "
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:crimson_planks"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            "minecraft:wooden_pickaxe"
+        ],
+        "priority": 2,
+        "shape": [
+            "AAA",
+            " B ",
+            " B "
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:crimson_planks"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            "minecraft:wooden_shovel"
+        ],
+        "priority": 2,
+        "shape": [
+            "A",
+            "B",
+            "B"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:crimson_planks"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            "minecraft:wooden_sword"
+        ],
+        "priority": 2,
+        "shape": [
+            "A",
+            "A",
+            "B"
         ]
     },
     {
@@ -4004,118 +4044,15 @@
             "A": {
                 "meta": 32767,
                 "name": "minecraft:crimson_planks"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
             }
         },
         "output": [
-            {
-                "name": "minecraft:wooden_axe"
-            }
+            "minecraft:crafting_table"
         ],
         "priority": 2,
         "shape": [
             "AA",
-            "AB",
-            " B"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:crimson_planks"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:wooden_hoe"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AA ",
-            " B ",
-            " B "
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:crimson_planks"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:wooden_pickaxe"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            " B ",
-            " B "
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:crimson_planks"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:wooden_shovel"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "A",
-            "B",
-            "B"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:crimson_planks"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:wooden_sword"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "A",
-            "A",
-            "B"
+            "AA"
         ]
     },
     {
@@ -4342,25 +4279,6 @@
         "input": {
             "A": {
                 "meta": 32767,
-                "name": "minecraft:crimson_planks"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:crafting_table"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AA",
-            "AA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
                 "name": "minecraft:crimson_slab"
             },
             "B": {
@@ -4573,9 +4491,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:chiseled_copper"
-            }
+            "minecraft:chiseled_copper"
         ],
         "priority": 1,
         "shape": [
@@ -4850,6 +4766,23 @@
             }
         },
         "output": [
+            "minecraft:dark_oak_boat"
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "AAA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:dark_oak_planks"
+            }
+        },
+        "output": [
             {
                 "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
                 "count": 4,
@@ -4920,25 +4853,6 @@
                 "meta": 32767,
                 "name": "minecraft:dark_oak_planks"
             }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:dark_oak_planks"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:dark_oak_boat"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A A",
-            "AAA"
         ]
     },
     {
@@ -5718,9 +5632,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:diamond_axe"
-            }
+            "minecraft:diamond_axe"
         ],
         "priority": 0,
         "shape": [
@@ -5748,9 +5660,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:diamond_hoe"
-            }
+            "minecraft:diamond_hoe"
         ],
         "priority": 0,
         "shape": [
@@ -5778,9 +5688,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:diamond_pickaxe"
-            }
+            "minecraft:diamond_pickaxe"
         ],
         "priority": 0,
         "shape": [
@@ -5808,9 +5716,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:diamond_shovel"
-            }
+            "minecraft:diamond_shovel"
         ],
         "priority": 0,
         "shape": [
@@ -5838,9 +5744,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:diamond_sword"
-            }
+            "minecraft:diamond_sword"
         ],
         "priority": 0,
         "shape": [
@@ -6038,9 +5942,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:diamond_block"
-            }
+            "minecraft:diamond_block"
         ],
         "priority": 0,
         "shape": [
@@ -6064,9 +5966,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:diamond_boots"
-            }
+            "minecraft:diamond_boots"
         ],
         "priority": 0,
         "shape": [
@@ -6089,9 +5989,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:diamond_chestplate"
-            }
+            "minecraft:diamond_chestplate"
         ],
         "priority": 0,
         "shape": [
@@ -6115,9 +6013,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:diamond_helmet"
-            }
+            "minecraft:diamond_helmet"
         ],
         "priority": 0,
         "shape": [
@@ -6140,9 +6036,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:diamond_leggings"
-            }
+            "minecraft:diamond_leggings"
         ],
         "priority": 0,
         "shape": [
@@ -6272,9 +6166,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:music_disc_5"
-            }
+            "minecraft:music_disc_5"
         ],
         "priority": 1,
         "shape": [
@@ -6298,9 +6190,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:dried_kelp_block"
-            }
+            "minecraft:dried_kelp_block"
         ],
         "priority": 0,
         "shape": [
@@ -6353,9 +6243,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:recovery_compass"
-            }
+            "minecraft:recovery_compass"
         ],
         "priority": 1,
         "shape": [
@@ -6383,9 +6271,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:recovery_compass"
-            }
+            "minecraft:recovery_compass"
         ],
         "priority": 1,
         "shape": [
@@ -6409,9 +6295,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:emerald_block"
-            }
+            "minecraft:emerald_block"
         ],
         "priority": 0,
         "shape": [
@@ -6684,9 +6568,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:exposed_chiseled_copper"
-            }
+            "minecraft:exposed_chiseled_copper"
         ],
         "priority": 0,
         "shape": [
@@ -6717,9 +6599,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:brush"
-            }
+            "minecraft:brush"
         ],
         "priority": 0,
         "shape": [
@@ -6747,9 +6627,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:carrot_on_a_stick"
-            }
+            "minecraft:carrot_on_a_stick"
         ],
         "priority": 0,
         "shape": [
@@ -6776,9 +6654,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:warped_fungus_on_a_stick"
-            }
+            "minecraft:warped_fungus_on_a_stick"
         ],
         "priority": 0,
         "shape": [
@@ -6805,9 +6681,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:fletching_table"
-            }
+            "minecraft:fletching_table"
         ],
         "priority": 2,
         "shape": [
@@ -6829,9 +6703,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:fletching_table"
-            }
+            "minecraft:fletching_table"
         ],
         "priority": 2,
         "shape": [
@@ -6892,9 +6764,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:fletching_table"
-            }
+            "minecraft:fletching_table"
         ],
         "priority": 2,
         "shape": [
@@ -6915,9 +6785,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:fletching_table"
-            }
+            "minecraft:fletching_table"
         ],
         "priority": -1,
         "shape": [
@@ -7135,9 +7003,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:end_crystal"
-            }
+            "minecraft:end_crystal"
         ],
         "priority": 0,
         "shape": [
@@ -7417,9 +7283,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:beacon"
-            }
+            "minecraft:beacon"
         ],
         "priority": 0,
         "shape": [
@@ -8362,9 +8226,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:glowstone"
-            }
+            "minecraft:glowstone"
         ],
         "priority": 0,
         "shape": [
@@ -8416,9 +8278,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:golden_apple"
-            }
+            "minecraft:golden_apple"
         ],
         "priority": 0,
         "shape": [
@@ -8446,9 +8306,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:clock"
-            }
+            "minecraft:clock"
         ],
         "priority": 0,
         "shape": [
@@ -8512,9 +8370,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:golden_axe"
-            }
+            "minecraft:golden_axe"
         ],
         "priority": 0,
         "shape": [
@@ -8542,9 +8398,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:golden_hoe"
-            }
+            "minecraft:golden_hoe"
         ],
         "priority": 0,
         "shape": [
@@ -8572,9 +8426,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:golden_pickaxe"
-            }
+            "minecraft:golden_pickaxe"
         ],
         "priority": 0,
         "shape": [
@@ -8602,9 +8454,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:golden_shovel"
-            }
+            "minecraft:golden_shovel"
         ],
         "priority": 0,
         "shape": [
@@ -8632,15 +8482,131 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:golden_sword"
-            }
+            "minecraft:golden_sword"
         ],
         "priority": 0,
         "shape": [
             "A",
             "A",
             "B"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:gold_ingot"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:gold_ingot"
+            }
+        },
+        "output": [
+            "minecraft:gold_block"
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:gold_ingot"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:gold_ingot"
+            }
+        },
+        "output": [
+            "minecraft:golden_boots"
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "A A"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:gold_ingot"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:gold_ingot"
+            }
+        },
+        "output": [
+            "minecraft:golden_chestplate"
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "AAA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:gold_ingot"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:gold_ingot"
+            }
+        },
+        "output": [
+            "minecraft:golden_helmet"
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "A A"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:gold_ingot"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:gold_ingot"
+            }
+        },
+        "output": [
+            "minecraft:golden_leggings"
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "A A",
+            "A A"
         ],
         "unlockingIngredients": [
             {
@@ -8704,134 +8670,6 @@
         "input": {
             "A": {
                 "meta": 32767,
-                "name": "minecraft:gold_ingot"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:gold_block"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:gold_ingot"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:gold_ingot"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:golden_boots"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A A",
-            "A A"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:gold_ingot"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:gold_ingot"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:golden_chestplate"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A A",
-            "AAA",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:gold_ingot"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:gold_ingot"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:golden_helmet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "A A"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:gold_ingot"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:gold_ingot"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:golden_leggings"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "A A",
-            "A A"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:gold_ingot"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
                 "name": "minecraft:gold_nugget"
             },
             "B": {
@@ -8840,9 +8678,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:golden_carrot"
-            }
+            "minecraft:golden_carrot"
         ],
         "priority": 0,
         "shape": [
@@ -8870,9 +8706,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:glistering_melon_slice"
-            }
+            "minecraft:glistering_melon_slice"
         ],
         "priority": 0,
         "shape": [
@@ -8896,9 +8730,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:gold_ingot"
-            }
+            "minecraft:gold_ingot"
         ],
         "priority": 0,
         "shape": [
@@ -9848,9 +9680,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:mace"
-            }
+            "minecraft:mace"
         ],
         "priority": 0,
         "shape": [
@@ -9877,37 +9707,7 @@
             }
         },
         "output": [
-            {
-                "count": 3,
-                "name": "minecraft:sugar"
-            },
-            {
-                "name": "minecraft:glass_bottle"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:honey_bottle"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:honey_bottle"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:honey_block"
-            },
+            "minecraft:honey_block",
             {
                 "count": 4,
                 "name": "minecraft:glass_bottle"
@@ -9930,13 +9730,37 @@
         "input": {
             "A": {
                 "meta": 32767,
-                "name": "minecraft:honeycomb"
+                "name": "minecraft:honey_bottle"
             }
         },
         "output": [
             {
-                "name": "minecraft:honeycomb_block"
+                "count": 3,
+                "name": "minecraft:sugar"
+            },
+            "minecraft:glass_bottle"
+        ],
+        "priority": 0,
+        "shape": [
+            "A"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:honey_bottle"
             }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        },
+        "output": [
+            "minecraft:honeycomb_block"
         ],
         "priority": 0,
         "shape": [
@@ -9959,9 +9783,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:packed_ice"
-            }
+            "minecraft:packed_ice"
         ],
         "priority": 0,
         "shape": [
@@ -10045,9 +9867,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:hopper"
-            }
+            "minecraft:hopper"
         ],
         "priority": 0,
         "shape": [
@@ -10114,9 +9934,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:smithing_table"
-            }
+            "minecraft:smithing_table"
         ],
         "priority": 2,
         "shape": [
@@ -10173,9 +9991,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:smithing_table"
-            }
+            "minecraft:smithing_table"
         ],
         "priority": 2,
         "shape": [
@@ -10197,9 +10013,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:compass"
-            }
+            "minecraft:compass"
         ],
         "priority": 0,
         "shape": [
@@ -10385,41 +10199,7 @@
             }
         },
         "output": [
-            {
-                "block_states": "CgAAAw4AcmFpbF9kaXJlY3Rpb24AAAAAAA==",
-                "count": 16,
-                "name": "minecraft:rail"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A A",
-            "ABA",
-            "A A"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:minecart"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:iron_ingot"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:iron_axe"
-            }
+            "minecraft:iron_axe"
         ],
         "priority": 0,
         "shape": [
@@ -10447,9 +10227,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:iron_hoe"
-            }
+            "minecraft:iron_hoe"
         ],
         "priority": 0,
         "shape": [
@@ -10477,9 +10255,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:iron_pickaxe"
-            }
+            "minecraft:iron_pickaxe"
         ],
         "priority": 0,
         "shape": [
@@ -10507,9 +10283,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:iron_shovel"
-            }
+            "minecraft:iron_shovel"
         ],
         "priority": 0,
         "shape": [
@@ -10537,9 +10311,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:iron_sword"
-            }
+            "minecraft:iron_sword"
         ],
         "priority": 0,
         "shape": [
@@ -10551,6 +10323,38 @@
             {
                 "meta": 32767,
                 "name": "minecraft:iron_ingot"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:iron_ingot"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAw4AcmFpbF9kaXJlY3Rpb24AAAAAAA==",
+                "count": 16,
+                "name": "minecraft:rail"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "ABA",
+            "A A"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:minecart"
             }
         ]
     },
@@ -10603,9 +10407,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:smithing_table"
-            }
+            "minecraft:smithing_table"
         ],
         "priority": 2,
         "shape": [
@@ -10654,15 +10456,224 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:smithing_table"
-            }
+            "minecraft:smithing_table"
         ],
         "priority": -1,
         "shape": [
             "AA",
             "BB",
             "BB"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_ingot"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:iron_ingot"
+            }
+        },
+        "output": [
+            "minecraft:bucket"
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            " A "
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_ingot"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:iron_ingot"
+            }
+        },
+        "output": [
+            "minecraft:cauldron"
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "A A",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:water_bucket"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:iron_ingot"
+            }
+        },
+        "output": [
+            "minecraft:iron_block"
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_ingot"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:iron_ingot"
+            }
+        },
+        "output": [
+            "minecraft:iron_boots"
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "A A"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_ingot"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:iron_ingot"
+            }
+        },
+        "output": [
+            "minecraft:iron_chestplate"
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "AAA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_ingot"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:iron_ingot"
+            }
+        },
+        "output": [
+            "minecraft:iron_helmet"
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "A A"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_ingot"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:iron_ingot"
+            }
+        },
+        "output": [
+            "minecraft:iron_leggings"
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "A A",
+            "A A"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_ingot"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:iron_ingot"
+            }
+        },
+        "output": [
+            "minecraft:minecart"
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_ingot"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:iron_ingot"
+            }
+        },
+        "output": [
+            "minecraft:shears"
+        ],
+        "priority": 0,
+        "shape": [
+            " A",
+            "A "
         ],
         "unlockingIngredients": [
             {
@@ -10805,235 +10816,6 @@
         "input": {
             "A": {
                 "meta": 32767,
-                "name": "minecraft:iron_ingot"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:bucket"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A A",
-            " A "
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:iron_ingot"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:iron_ingot"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:cauldron"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A A",
-            "A A",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:water_bucket"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:iron_ingot"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:iron_block"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:iron_ingot"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:iron_ingot"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:iron_boots"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A A",
-            "A A"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:iron_ingot"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:iron_ingot"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:iron_chestplate"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A A",
-            "AAA",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:iron_ingot"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:iron_ingot"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:iron_helmet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "A A"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:iron_ingot"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:iron_ingot"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:iron_leggings"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "A A",
-            "A A"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:iron_ingot"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:iron_ingot"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:minecart"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A A",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:iron_ingot"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:iron_ingot"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:shears"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            " A",
-            "A "
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:iron_ingot"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
                 "name": "minecraft:iron_nugget"
             },
             "B": {
@@ -11042,9 +10824,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:chain"
-            }
+            "minecraft:chain"
         ],
         "priority": 0,
         "shape": [
@@ -11134,9 +10914,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:iron_ingot"
-            }
+            "minecraft:iron_ingot"
         ],
         "priority": 0,
         "shape": [
@@ -11273,6 +11051,23 @@
             }
         },
         "output": [
+            "minecraft:jungle_boat"
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "AAA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:jungle_planks"
+            }
+        },
+        "output": [
             {
                 "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
                 "count": 4,
@@ -11350,25 +11145,6 @@
         "input": {
             "A": {
                 "meta": 32767,
-                "name": "minecraft:jungle_planks"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:jungle_boat"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A A",
-            "AAA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
                 "name": "minecraft:jungle_wood"
             }
         },
@@ -11423,9 +11199,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:leather_boots"
-            }
+            "minecraft:leather_boots"
         ],
         "priority": 0,
         "shape": [
@@ -11448,9 +11222,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:leather_chestplate"
-            }
+            "minecraft:leather_chestplate"
         ],
         "priority": 0,
         "shape": [
@@ -11474,9 +11246,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:leather_helmet"
-            }
+            "minecraft:leather_helmet"
         ],
         "priority": 0,
         "shape": [
@@ -11499,9 +11269,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:leather_horse_armor"
-            }
+            "minecraft:leather_horse_armor"
         ],
         "priority": 0,
         "shape": [
@@ -11525,9 +11293,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:leather_leggings"
-            }
+            "minecraft:leather_leggings"
         ],
         "priority": 0,
         "shape": [
@@ -11883,9 +11649,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:magma"
-            }
+            "minecraft:magma"
         ],
         "priority": 0,
         "shape": [
@@ -11989,9 +11753,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:bookshelf"
-            }
+            "minecraft:bookshelf"
         ],
         "priority": 2,
         "shape": [
@@ -12046,9 +11808,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:jukebox"
-            }
+            "minecraft:jukebox"
         ],
         "priority": 2,
         "shape": [
@@ -12095,9 +11855,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:shield"
-            }
+            "minecraft:shield"
         ],
         "priority": 2,
         "shape": [
@@ -12119,15 +11877,123 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:noteblock"
-            }
+            "minecraft:noteblock"
         ],
         "priority": 2,
         "shape": [
             "AAA",
             "ABA",
             "AAA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:mangrove_planks"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            "minecraft:wooden_axe"
+        ],
+        "priority": 2,
+        "shape": [
+            "AA",
+            "AB",
+            " B"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:mangrove_planks"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            "minecraft:wooden_hoe"
+        ],
+        "priority": 2,
+        "shape": [
+            "AA ",
+            " B ",
+            " B "
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:mangrove_planks"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            "minecraft:wooden_pickaxe"
+        ],
+        "priority": 2,
+        "shape": [
+            "AAA",
+            " B ",
+            " B "
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:mangrove_planks"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            "minecraft:wooden_shovel"
+        ],
+        "priority": 2,
+        "shape": [
+            "A",
+            "B",
+            "B"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:mangrove_planks"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            "minecraft:wooden_sword"
+        ],
+        "priority": 2,
+        "shape": [
+            "A",
+            "A",
+            "B"
         ]
     },
     {
@@ -12197,118 +12063,15 @@
             "A": {
                 "meta": 32767,
                 "name": "minecraft:mangrove_planks"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
             }
         },
         "output": [
-            {
-                "name": "minecraft:wooden_axe"
-            }
+            "minecraft:crafting_table"
         ],
         "priority": 2,
         "shape": [
             "AA",
-            "AB",
-            " B"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:mangrove_planks"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:wooden_hoe"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AA ",
-            " B ",
-            " B "
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:mangrove_planks"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:wooden_pickaxe"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            " B ",
-            " B "
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:mangrove_planks"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:wooden_shovel"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "A",
-            "B",
-            "B"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:mangrove_planks"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:wooden_sword"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "A",
-            "A",
-            "B"
+            "AA"
         ]
     },
     {
@@ -12535,25 +12298,6 @@
         "input": {
             "A": {
                 "meta": 32767,
-                "name": "minecraft:mangrove_planks"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:crafting_table"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AA",
-            "AA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
                 "name": "minecraft:mangrove_slab"
             },
             "B": {
@@ -12654,9 +12398,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:melon_block"
-            }
+            "minecraft:melon_block"
         ],
         "priority": 0,
         "shape": [
@@ -12680,9 +12422,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:melon_seeds"
-            }
+            "minecraft:melon_seeds"
         ],
         "priority": 0,
         "shape": [
@@ -12924,9 +12664,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:conduit"
-            }
+            "minecraft:conduit"
         ],
         "priority": 0,
         "shape": [
@@ -13039,9 +12777,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:chiseled_nether_bricks"
-            }
+            "minecraft:chiseled_nether_bricks"
         ],
         "priority": 0,
         "shape": [
@@ -13064,9 +12800,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:nether_wart_block"
-            }
+            "minecraft:nether_wart_block"
         ],
         "priority": 0,
         "shape": [
@@ -13094,9 +12828,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:red_nether_brick"
-            }
+            "minecraft:red_nether_brick"
         ],
         "priority": 0,
         "shape": [
@@ -13119,9 +12851,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:nether_brick"
-            }
+            "minecraft:nether_brick"
         ],
         "priority": 0,
         "shape": [
@@ -13169,9 +12899,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:netherite_block"
-            }
+            "minecraft:netherite_block"
         ],
         "priority": 0,
         "shape": [
@@ -13338,6 +13066,40 @@
             }
         },
         "output": [
+            "minecraft:crafting_table"
+        ],
+        "priority": -1,
+        "shape": [
+            "AA",
+            "AA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:oak_planks"
+            }
+        },
+        "output": [
+            "minecraft:oak_boat"
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "AAA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:oak_planks"
+            }
+        },
+        "output": [
             {
                 "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
                 "count": 4,
@@ -13408,44 +13170,6 @@
                 "meta": 32767,
                 "name": "minecraft:oak_planks"
             }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:oak_planks"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:crafting_table"
-            }
-        ],
-        "priority": -1,
-        "shape": [
-            "AA",
-            "AA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:oak_planks"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:oak_boat"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A A",
-            "AAA"
         ]
     },
     {
@@ -13739,9 +13463,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:oxidized_chiseled_copper"
-            }
+            "minecraft:oxidized_chiseled_copper"
         ],
         "priority": 0,
         "shape": [
@@ -13764,9 +13486,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:blue_ice"
-            }
+            "minecraft:blue_ice"
         ],
         "priority": 0,
         "shape": [
@@ -13990,6 +13710,23 @@
             }
         },
         "output": [
+            "minecraft:pale_oak_boat"
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "AAA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:pale_oak_planks"
+            }
+        },
+        "output": [
             {
                 "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
                 "count": 4,
@@ -14144,25 +13881,6 @@
         "input": {
             "A": {
                 "meta": 32767,
-                "name": "minecraft:pale_oak_planks"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:pale_oak_boat"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A A",
-            "AAA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
                 "name": "minecraft:pale_oak_wood"
             }
         },
@@ -14227,9 +13945,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:cartography_table"
-            }
+            "minecraft:cartography_table"
         ],
         "priority": 2,
         "shape": [
@@ -14251,9 +13967,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:cartography_table"
-            }
+            "minecraft:cartography_table"
         ],
         "priority": 2,
         "shape": [
@@ -14275,9 +13989,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:cartography_table"
-            }
+            "minecraft:cartography_table"
         ],
         "priority": 2,
         "shape": [
@@ -14298,9 +14010,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:cartography_table"
-            }
+            "minecraft:cartography_table"
         ],
         "priority": -1,
         "shape": [
@@ -14324,9 +14034,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:empty_map"
-            }
+            "minecraft:empty_map"
         ],
         "priority": 0,
         "shape": [
@@ -14433,9 +14141,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:dripstone_block"
-            }
+            "minecraft:dripstone_block"
         ],
         "priority": 0,
         "shape": [
@@ -14458,9 +14164,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:dripstone_block"
-            }
+            "minecraft:dripstone_block"
         ],
         "priority": 0,
         "shape": [
@@ -14743,9 +14447,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:chiseled_polished_blackstone"
-            }
+            "minecraft:chiseled_polished_blackstone"
         ],
         "priority": 0,
         "shape": [
@@ -15097,9 +14799,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:dark_prismarine"
-            }
+            "minecraft:dark_prismarine"
         ],
         "priority": 0,
         "shape": [
@@ -15127,9 +14827,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:dark_prismarine"
-            }
+            "minecraft:dark_prismarine"
         ],
         "priority": 1,
         "shape": [
@@ -15157,9 +14855,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:sea_lantern"
-            }
+            "minecraft:sea_lantern"
         ],
         "priority": 0,
         "shape": [
@@ -15183,9 +14879,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:prismarine"
-            }
+            "minecraft:prismarine"
         ],
         "priority": 0,
         "shape": [
@@ -15208,9 +14902,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:prismarine_bricks"
-            }
+            "minecraft:prismarine_bricks"
         ],
         "priority": 0,
         "shape": [
@@ -15394,9 +15086,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:leather"
-            }
+            "minecraft:leather"
         ],
         "priority": 0,
         "shape": [
@@ -15419,9 +15109,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:raw_copper_block"
-            }
+            "minecraft:raw_copper_block"
         ],
         "priority": 0,
         "shape": [
@@ -15470,9 +15158,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:raw_gold_block"
-            }
+            "minecraft:raw_gold_block"
         ],
         "priority": 0,
         "shape": [
@@ -15521,9 +15207,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:raw_iron_block"
-            }
+            "minecraft:raw_iron_block"
         ],
         "priority": 0,
         "shape": [
@@ -15627,9 +15311,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:red_sandstone"
-            }
+            "minecraft:red_sandstone"
         ],
         "priority": 0,
         "shape": [
@@ -15739,9 +15421,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:redstone_lamp"
-            }
+            "minecraft:redstone_lamp"
         ],
         "priority": 0,
         "shape": [
@@ -15769,9 +15449,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:target"
-            }
+            "minecraft:target"
         ],
         "priority": 0,
         "shape": [
@@ -15829,9 +15507,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:redstone_block"
-            }
+            "minecraft:redstone_block"
         ],
         "priority": 0,
         "shape": [
@@ -15887,9 +15563,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:comparator"
-            }
+            "minecraft:comparator"
         ],
         "priority": 0,
         "shape": [
@@ -15920,9 +15594,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:repeater"
-            }
+            "minecraft:repeater"
         ],
         "priority": 0,
         "shape": [
@@ -15971,9 +15643,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:resin_bricks"
-            }
+            "minecraft:resin_bricks"
         ],
         "priority": 0,
         "shape": [
@@ -15996,9 +15666,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:chiseled_resin_bricks"
-            }
+            "minecraft:chiseled_resin_bricks"
         ],
         "priority": 0,
         "shape": [
@@ -16102,9 +15770,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:resin_block"
-            }
+            "minecraft:resin_block"
         ],
         "priority": 0,
         "shape": [
@@ -16132,9 +15798,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:undyed_shulker_box"
-            }
+            "minecraft:undyed_shulker_box"
         ],
         "priority": 0,
         "shape": [
@@ -16213,9 +15877,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:slime"
-            }
+            "minecraft:slime"
         ],
         "priority": 0,
         "shape": [
@@ -16349,9 +16011,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:snow"
-            }
+            "minecraft:snow"
         ],
         "priority": 0,
         "shape": [
@@ -16487,6 +16147,23 @@
             }
         },
         "output": [
+            "minecraft:spruce_boat"
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "AAA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:spruce_planks"
+            }
+        },
+        "output": [
             {
                 "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
                 "count": 4,
@@ -16557,25 +16234,6 @@
                 "meta": 32767,
                 "name": "minecraft:spruce_planks"
             }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:spruce_planks"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:spruce_boat"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A A",
-            "AAA"
         ]
     },
     {
@@ -16710,9 +16368,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:campfire"
-            }
+            "minecraft:campfire"
         ],
         "priority": 2,
         "shape": [
@@ -16738,9 +16394,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:campfire"
-            }
+            "minecraft:campfire"
         ],
         "priority": 2,
         "shape": [
@@ -16766,9 +16420,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:campfire"
-            }
+            "minecraft:campfire"
         ],
         "priority": 0,
         "shape": [
@@ -16794,9 +16446,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:campfire"
-            }
+            "minecraft:campfire"
         ],
         "priority": 0,
         "shape": [
@@ -16822,9 +16472,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:campfire"
-            }
+            "minecraft:campfire"
         ],
         "priority": 0,
         "shape": [
@@ -16850,9 +16498,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:campfire"
-            }
+            "minecraft:campfire"
         ],
         "priority": 0,
         "shape": [
@@ -16878,9 +16524,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:campfire"
-            }
+            "minecraft:campfire"
         ],
         "priority": 0,
         "shape": [
@@ -16906,9 +16550,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:campfire"
-            }
+            "minecraft:campfire"
         ],
         "priority": 2,
         "shape": [
@@ -16934,9 +16576,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:campfire"
-            }
+            "minecraft:campfire"
         ],
         "priority": 0,
         "shape": [
@@ -16962,9 +16602,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:campfire"
-            }
+            "minecraft:campfire"
         ],
         "priority": 0,
         "shape": [
@@ -16989,9 +16627,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:campfire"
-            }
+            "minecraft:campfire"
         ],
         "priority": 0,
         "shape": [
@@ -17016,9 +16652,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:campfire"
-            }
+            "minecraft:campfire"
         ],
         "priority": 0,
         "shape": [
@@ -17043,9 +16677,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:campfire"
-            }
+            "minecraft:campfire"
         ],
         "priority": 0,
         "shape": [
@@ -17195,9 +16827,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:crossbow"
-            }
+            "minecraft:crossbow"
         ],
         "priority": 0,
         "shape": [
@@ -17263,9 +16893,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:frame"
-            }
+            "minecraft:frame"
         ],
         "priority": 0,
         "shape": [
@@ -17500,9 +17128,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:armor_stand"
-            }
+            "minecraft:armor_stand"
         ],
         "priority": 0,
         "shape": [
@@ -17534,9 +17160,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:soul_campfire"
-            }
+            "minecraft:soul_campfire"
         ],
         "priority": 2,
         "shape": [
@@ -17562,9 +17186,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:soul_campfire"
-            }
+            "minecraft:soul_campfire"
         ],
         "priority": 2,
         "shape": [
@@ -17590,9 +17212,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:soul_campfire"
-            }
+            "minecraft:soul_campfire"
         ],
         "priority": 50,
         "shape": [
@@ -17618,9 +17238,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:soul_campfire"
-            }
+            "minecraft:soul_campfire"
         ],
         "priority": 2,
         "shape": [
@@ -17646,9 +17264,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:soul_campfire"
-            }
+            "minecraft:soul_campfire"
         ],
         "priority": 2,
         "shape": [
@@ -17674,9 +17290,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:soul_campfire"
-            }
+            "minecraft:soul_campfire"
         ],
         "priority": 2,
         "shape": [
@@ -17702,9 +17316,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:soul_campfire"
-            }
+            "minecraft:soul_campfire"
         ],
         "priority": 2,
         "shape": [
@@ -17730,9 +17342,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:soul_campfire"
-            }
+            "minecraft:soul_campfire"
         ],
         "priority": 2,
         "shape": [
@@ -17758,9 +17368,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:soul_campfire"
-            }
+            "minecraft:soul_campfire"
         ],
         "priority": 2,
         "shape": [
@@ -17786,9 +17394,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:soul_campfire"
-            }
+            "minecraft:soul_campfire"
         ],
         "priority": 50,
         "shape": [
@@ -17814,9 +17420,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:soul_campfire"
-            }
+            "minecraft:soul_campfire"
         ],
         "priority": 2,
         "shape": [
@@ -17842,9 +17446,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:soul_campfire"
-            }
+            "minecraft:soul_campfire"
         ],
         "priority": 2,
         "shape": [
@@ -17870,9 +17472,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:soul_campfire"
-            }
+            "minecraft:soul_campfire"
         ],
         "priority": 2,
         "shape": [
@@ -17898,9 +17498,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:soul_campfire"
-            }
+            "minecraft:soul_campfire"
         ],
         "priority": 2,
         "shape": [
@@ -17925,9 +17523,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:soul_campfire"
-            }
+            "minecraft:soul_campfire"
         ],
         "priority": 1,
         "shape": [
@@ -17952,9 +17548,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:soul_campfire"
-            }
+            "minecraft:soul_campfire"
         ],
         "priority": 2,
         "shape": [
@@ -17979,9 +17573,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:soul_campfire"
-            }
+            "minecraft:soul_campfire"
         ],
         "priority": 2,
         "shape": [
@@ -18007,9 +17599,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:soul_campfire"
-            }
+            "minecraft:soul_campfire"
         ],
         "priority": 2,
         "shape": [
@@ -18035,9 +17625,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:soul_campfire"
-            }
+            "minecraft:soul_campfire"
         ],
         "priority": 2,
         "shape": [
@@ -18063,9 +17651,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:soul_campfire"
-            }
+            "minecraft:soul_campfire"
         ],
         "priority": 50,
         "shape": [
@@ -18091,9 +17677,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:soul_campfire"
-            }
+            "minecraft:soul_campfire"
         ],
         "priority": 2,
         "shape": [
@@ -18119,9 +17703,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:soul_campfire"
-            }
+            "minecraft:soul_campfire"
         ],
         "priority": 2,
         "shape": [
@@ -18147,9 +17729,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:soul_campfire"
-            }
+            "minecraft:soul_campfire"
         ],
         "priority": 2,
         "shape": [
@@ -18175,9 +17755,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:soul_campfire"
-            }
+            "minecraft:soul_campfire"
         ],
         "priority": 2,
         "shape": [
@@ -18203,9 +17781,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:soul_campfire"
-            }
+            "minecraft:soul_campfire"
         ],
         "priority": 2,
         "shape": [
@@ -18231,9 +17807,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:soul_campfire"
-            }
+            "minecraft:soul_campfire"
         ],
         "priority": 2,
         "shape": [
@@ -18259,9 +17833,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:soul_campfire"
-            }
+            "minecraft:soul_campfire"
         ],
         "priority": 50,
         "shape": [
@@ -18287,9 +17859,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:soul_campfire"
-            }
+            "minecraft:soul_campfire"
         ],
         "priority": 2,
         "shape": [
@@ -18315,9 +17885,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:soul_campfire"
-            }
+            "minecraft:soul_campfire"
         ],
         "priority": 2,
         "shape": [
@@ -18343,9 +17911,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:soul_campfire"
-            }
+            "minecraft:soul_campfire"
         ],
         "priority": 2,
         "shape": [
@@ -18371,9 +17937,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:soul_campfire"
-            }
+            "minecraft:soul_campfire"
         ],
         "priority": 2,
         "shape": [
@@ -18398,9 +17962,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:soul_campfire"
-            }
+            "minecraft:soul_campfire"
         ],
         "priority": 1,
         "shape": [
@@ -18425,9 +17987,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:soul_campfire"
-            }
+            "minecraft:soul_campfire"
         ],
         "priority": 2,
         "shape": [
@@ -18452,9 +18012,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:soul_campfire"
-            }
+            "minecraft:soul_campfire"
         ],
         "priority": 2,
         "shape": [
@@ -18506,9 +18064,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:bow"
-            }
+            "minecraft:bow"
         ],
         "priority": 0,
         "shape": [
@@ -18536,9 +18092,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:fishing_rod"
-            }
+            "minecraft:fishing_rod"
         ],
         "priority": 0,
         "shape": [
@@ -18599,9 +18153,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:campfire"
-            }
+            "minecraft:campfire"
         ],
         "priority": 2,
         "shape": [
@@ -18626,9 +18178,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:campfire"
-            }
+            "minecraft:campfire"
         ],
         "priority": 2,
         "shape": [
@@ -18653,9 +18203,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:campfire"
-            }
+            "minecraft:campfire"
         ],
         "priority": 2,
         "shape": [
@@ -18680,9 +18228,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:campfire"
-            }
+            "minecraft:campfire"
         ],
         "priority": 2,
         "shape": [
@@ -18707,9 +18253,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:campfire"
-            }
+            "minecraft:campfire"
         ],
         "priority": 2,
         "shape": [
@@ -18734,9 +18278,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:campfire"
-            }
+            "minecraft:campfire"
         ],
         "priority": 2,
         "shape": [
@@ -18761,9 +18303,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:campfire"
-            }
+            "minecraft:campfire"
         ],
         "priority": 2,
         "shape": [
@@ -18788,9 +18328,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:campfire"
-            }
+            "minecraft:campfire"
         ],
         "priority": 2,
         "shape": [
@@ -18815,9 +18353,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:campfire"
-            }
+            "minecraft:campfire"
         ],
         "priority": 0,
         "shape": [
@@ -18842,9 +18378,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:campfire"
-            }
+            "minecraft:campfire"
         ],
         "priority": 50,
         "shape": [
@@ -18869,9 +18403,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:campfire"
-            }
+            "minecraft:campfire"
         ],
         "priority": 2,
         "shape": [
@@ -18896,9 +18428,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:campfire"
-            }
+            "minecraft:campfire"
         ],
         "priority": 2,
         "shape": [
@@ -18923,9 +18453,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:campfire"
-            }
+            "minecraft:campfire"
         ],
         "priority": 2,
         "shape": [
@@ -18950,9 +18478,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:campfire"
-            }
+            "minecraft:campfire"
         ],
         "priority": 2,
         "shape": [
@@ -18976,9 +18502,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:campfire"
-            }
+            "minecraft:campfire"
         ],
         "priority": 2,
         "shape": [
@@ -19002,9 +18526,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:campfire"
-            }
+            "minecraft:campfire"
         ],
         "priority": 2,
         "shape": [
@@ -19028,9 +18550,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:campfire"
-            }
+            "minecraft:campfire"
         ],
         "priority": -1,
         "shape": [
@@ -19060,9 +18580,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:soul_campfire"
-            }
+            "minecraft:soul_campfire"
         ],
         "priority": -1,
         "shape": [
@@ -19088,9 +18606,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:painting"
-            }
+            "minecraft:painting"
         ],
         "priority": 0,
         "shape": [
@@ -19319,9 +18835,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:bundle"
-            }
+            "minecraft:bundle"
         ],
         "priority": 1,
         "shape": [
@@ -19456,9 +18970,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:white_wool"
-            }
+            "minecraft:white_wool"
         ],
         "priority": 0,
         "shape": [
@@ -20603,14 +20115,11 @@
             }
         },
         "output": [
-            {
-                "count": 3,
-                "name": "minecraft:paper"
-            }
+            "minecraft:sugar"
         ],
         "priority": 0,
         "shape": [
-            "AAA"
+            "A"
         ],
         "unlockingIngredients": [
             {
@@ -20629,12 +20138,13 @@
         },
         "output": [
             {
-                "name": "minecraft:sugar"
+                "count": 3,
+                "name": "minecraft:paper"
             }
         ],
         "priority": 0,
         "shape": [
-            "A"
+            "AAA"
         ],
         "unlockingIngredients": [
             {
@@ -20759,9 +20269,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:chiseled_tuff_bricks"
-            }
+            "minecraft:chiseled_tuff_bricks"
         ],
         "priority": 1,
         "shape": [
@@ -20865,9 +20373,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:chiseled_tuff"
-            }
+            "minecraft:chiseled_tuff"
         ],
         "priority": 1,
         "shape": [
@@ -20890,9 +20396,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:turtle_helmet"
-            }
+            "minecraft:turtle_helmet"
         ],
         "priority": 0,
         "shape": [
@@ -20944,9 +20448,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:bookshelf"
-            }
+            "minecraft:bookshelf"
         ],
         "priority": 2,
         "shape": [
@@ -21001,9 +20503,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:jukebox"
-            }
+            "minecraft:jukebox"
         ],
         "priority": 2,
         "shape": [
@@ -21050,9 +20550,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:shield"
-            }
+            "minecraft:shield"
         ],
         "priority": 2,
         "shape": [
@@ -21074,15 +20572,123 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:noteblock"
-            }
+            "minecraft:noteblock"
         ],
         "priority": 2,
         "shape": [
             "AAA",
             "ABA",
             "AAA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:warped_planks"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            "minecraft:wooden_axe"
+        ],
+        "priority": 2,
+        "shape": [
+            "AA",
+            "AB",
+            " B"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:warped_planks"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            "minecraft:wooden_hoe"
+        ],
+        "priority": 2,
+        "shape": [
+            "AA ",
+            " B ",
+            " B "
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:warped_planks"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            "minecraft:wooden_pickaxe"
+        ],
+        "priority": 2,
+        "shape": [
+            "AAA",
+            " B ",
+            " B "
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:warped_planks"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            "minecraft:wooden_shovel"
+        ],
+        "priority": 2,
+        "shape": [
+            "A",
+            "B",
+            "B"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:warped_planks"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            "minecraft:wooden_sword"
+        ],
+        "priority": 2,
+        "shape": [
+            "A",
+            "A",
+            "B"
         ]
     },
     {
@@ -21152,118 +20758,15 @@
             "A": {
                 "meta": 32767,
                 "name": "minecraft:warped_planks"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
             }
         },
         "output": [
-            {
-                "name": "minecraft:wooden_axe"
-            }
+            "minecraft:crafting_table"
         ],
         "priority": 2,
         "shape": [
             "AA",
-            "AB",
-            " B"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:warped_planks"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:wooden_hoe"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AA ",
-            " B ",
-            " B "
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:warped_planks"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:wooden_pickaxe"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            " B ",
-            " B "
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:warped_planks"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:wooden_shovel"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "A",
-            "B",
-            "B"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:warped_planks"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:wooden_sword"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "A",
-            "A",
-            "B"
+            "AA"
         ]
     },
     {
@@ -21483,25 +20986,6 @@
         "shape": [
             "A",
             "A"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:warped_planks"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:crafting_table"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AA",
-            "AA"
         ]
     },
     {
@@ -21831,9 +21315,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:waxed_chiseled_copper"
-            }
+            "minecraft:waxed_chiseled_copper"
         ],
         "priority": 0,
         "shape": [
@@ -21999,9 +21481,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:waxed_exposed_chiseled_copper"
-            }
+            "minecraft:waxed_exposed_chiseled_copper"
         ],
         "priority": 0,
         "shape": [
@@ -22167,9 +21647,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:waxed_oxidized_chiseled_copper"
-            }
+            "minecraft:waxed_oxidized_chiseled_copper"
         ],
         "priority": 0,
         "shape": [
@@ -22335,9 +21813,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:waxed_weathered_chiseled_copper"
-            }
+            "minecraft:waxed_weathered_chiseled_copper"
         ],
         "priority": 0,
         "shape": [
@@ -22503,9 +21979,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:weathered_chiseled_copper"
-            }
+            "minecraft:weathered_chiseled_copper"
         ],
         "priority": 0,
         "shape": [
@@ -22555,15 +22029,10 @@
             }
         },
         "output": [
-            {
-                "block_states": "CgAAAwoAZGVwcmVjYXRlZAAAAAAICwBwaWxsYXJfYXhpcwEAeQA=",
-                "name": "minecraft:hay_block"
-            }
+            "minecraft:bread"
         ],
         "priority": 0,
         "shape": [
-            "AAA",
-            "AAA",
             "AAA"
         ],
         "unlockingIngredients": [
@@ -22583,11 +22052,14 @@
         },
         "output": [
             {
-                "name": "minecraft:bread"
+                "block_states": "CgAAAwoAZGVwcmVjYXRlZAAAAAAICwBwaWxsYXJfYXhpcwEAeQA=",
+                "name": "minecraft:hay_block"
             }
         ],
         "priority": 0,
         "shape": [
+            "AAA",
+            "AAA",
             "AAA"
         ],
         "unlockingIngredients": [
@@ -31607,9 +31079,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:bamboo_raft"
-            }
+            "minecraft:bamboo_raft"
         ],
         "priority": 0,
         "shape": [
@@ -32171,9 +31641,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:coal_block"
-            }
+            "minecraft:coal_block"
         ],
         "priority": 0,
         "shape": [
@@ -32763,9 +32231,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:lapis_block"
-            }
+            "minecraft:lapis_block"
         ],
         "priority": 0,
         "shape": [
@@ -33047,9 +32513,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:mangrove_boat"
-            }
+            "minecraft:mangrove_boat"
         ],
         "priority": 0,
         "shape": [
@@ -33077,9 +32541,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:cake"
-            },
+            "minecraft:cake",
             {
                 "count": 3,
                 "name": "minecraft:bucket"
@@ -33831,9 +33293,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:sandstone"
-            }
+            "minecraft:sandstone"
         ],
         "priority": 0,
         "shape": [
@@ -34270,9 +33730,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 2,
         "shape": [
@@ -34296,9 +33754,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 1,
         "shape": [
@@ -34326,9 +33782,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 1,
         "shape": [
@@ -34509,9 +33963,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:bookshelf"
-            }
+            "minecraft:bookshelf"
         ],
         "priority": -1,
         "shape": [
@@ -34576,9 +34028,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:jukebox"
-            }
+            "minecraft:jukebox"
         ],
         "priority": -1,
         "shape": [
@@ -34635,9 +34085,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:shield"
-            }
+            "minecraft:shield"
         ],
         "priority": -1,
         "shape": [
@@ -34664,9 +34112,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:noteblock"
-            }
+            "minecraft:noteblock"
         ],
         "priority": -1,
         "shape": [
@@ -34693,9 +34139,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:wooden_axe"
-            }
+            "minecraft:wooden_axe"
         ],
         "priority": 0,
         "shape": [
@@ -34722,9 +34166,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:wooden_hoe"
-            }
+            "minecraft:wooden_hoe"
         ],
         "priority": 0,
         "shape": [
@@ -34751,9 +34193,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:wooden_pickaxe"
-            }
+            "minecraft:wooden_pickaxe"
         ],
         "priority": 0,
         "shape": [
@@ -34780,9 +34220,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:wooden_shovel"
-            }
+            "minecraft:wooden_shovel"
         ],
         "priority": 0,
         "shape": [
@@ -34809,9 +34247,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:wooden_sword"
-            }
+            "minecraft:wooden_sword"
         ],
         "priority": 0,
         "shape": [
@@ -34884,6 +34320,22 @@
             {
                 "tag": "minecraft:wooden_slabs"
             }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "tag": "minecraft:planks"
+            }
+        },
+        "output": [
+            "minecraft:crafting_table"
+        ],
+        "priority": 0,
+        "shape": [
+            "AA",
+            "AA"
         ]
     },
     {
@@ -34967,24 +34419,6 @@
         "block": "crafting_table",
         "input": {
             "A": {
-                "tag": "minecraft:planks"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:crafting_table"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA",
-            "AA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
                 "tag": "minecraft:stone_crafting_materials"
             }
         },
@@ -35018,9 +34452,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:stone_axe"
-            }
+            "minecraft:stone_axe"
         ],
         "priority": -1,
         "shape": [
@@ -35046,9 +34478,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:stone_hoe"
-            }
+            "minecraft:stone_hoe"
         ],
         "priority": -1,
         "shape": [
@@ -35074,9 +34504,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:stone_pickaxe"
-            }
+            "minecraft:stone_pickaxe"
         ],
         "priority": -1,
         "shape": [
@@ -35102,9 +34530,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:stone_shovel"
-            }
+            "minecraft:stone_shovel"
         ],
         "priority": -1,
         "shape": [
@@ -35130,9 +34556,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:stone_sword"
-            }
+            "minecraft:stone_sword"
         ],
         "priority": -1,
         "shape": [
